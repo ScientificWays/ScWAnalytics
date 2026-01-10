@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"GameAnalytics": "UnrealEditor-GameAnalytics.dll",
+		"GameAnalyticsEditor": "UnrealEditor-GameAnalyticsEditor.dll"
+	}
+}
