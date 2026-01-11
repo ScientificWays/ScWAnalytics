@@ -73,7 +73,7 @@ public:
 
     virtual void BeginDestroy() override;
 
-    UFUNCTION(BlueprintCallable, Category = "GameAnalytics")
+    UFUNCTION(BlueprintCallable, Category = "GameAnalytics", meta = (DisplayName = "Get Game Analytics Instance"))
     static UGameAnalytics* GetInstance();
 
     UFUNCTION(BlueprintCallable, Category = "GameAnalytics")
